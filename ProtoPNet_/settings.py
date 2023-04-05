@@ -14,7 +14,7 @@ test_batch_size = 800
 train_push_batch_size = 1500
 
 sequence_length = 888
-prototype_shape = (100, 512+1, 5)
+prototype_shape = (50, 512+1, 5)
 num_classes = 10 #36
 
 joint_optimizer_lrs = {'features': 3*1e-3,
