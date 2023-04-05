@@ -1,0 +1,7 @@
+*.out
+*.sh
+datasets
+*.pth
+*.pt
+**/__pycache__
+**/saved_models
